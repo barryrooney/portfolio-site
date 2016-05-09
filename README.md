@@ -39,3 +39,10 @@ Version 3
 + [Version 3](https://barryrooney.github.io/portfolio-site/index5.html)
 
 Fixing Responsive queries
+
+Finished Draft 1
+=================
+
++ [Version 6](https://barryrooney.github.io/portfolio-site/index6.html)
+
+Fixing Responsive queries
