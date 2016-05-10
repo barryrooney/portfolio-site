@@ -46,3 +46,10 @@ Finished Draft 1
 + [Version 6](https://barryrooney.github.io/portfolio-site/index6.html)
 
 Fixing Responsive queries
+
+Finished Draft 2
+=================
+
++ [Version 6](https://barryrooney.github.io/portfolio-site/index7.html)
+
+Fixing Social Icons

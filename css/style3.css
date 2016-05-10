@@ -28,7 +28,7 @@ min-width: 200px;
     background-color: #00ffbb;
     height: 500px;
     padding-top: 3em;
-    padding-bottom: 2em;
+    padding-bottom: 3em;
 }
 
 #portfolio {
@@ -37,9 +37,9 @@ min-width: 200px;
 }
 
 #about {background-color: #00ffbb;
-height: 400px;
+height: 440px;
     padding-top: 3em;
-    padding-bottom: 3em;
+    
     margin-top: 1.5em;
 }
 
@@ -54,7 +54,7 @@ height: 400px;
 
 
 .anchor5{margin: 2em;
-padding-top: em;}
+}
    
 
 
@@ -95,7 +95,7 @@ p{
     font-size: 1.2em;
     text-align: center;
     line-height: 2.5em;
-    margin-bottom: 0em;
+    margin-bottom: 1.5em;
 letter-spacing: 1.5px;}
 
 #contacta {
@@ -180,39 +180,12 @@ margin-top: 2em;}
     }
 
   
-#social {height: auto;
-display: block;
-max-width: 500px%;
-margin-bottom: 4em;
-    }
-  
-#social img
-{display: block;
-max-width: 500px;
-align-content: center;
-}
 
-#social a {
-display: inline;
-    padding-bottom: 2em;
-}
 
 
 /*----------------BUTTONS-----------------*/
 
-#buttons
-{position: relative;
-display: inline;
-align-items: center;}
 
-#buttons li {padding: 0em;
-    margin: 0em;}
-    
-.buttonlink {margin: 0;
-position: absolute;
-}
-    
-}
 
 
 
@@ -268,6 +241,34 @@ text-align: center;
 .center:hover{-webkit-filter: blur(0px);}
 
 
+/*----------------SOCIAL-----------------*/
+
+.social a {
+  opacity: 0.3;
+  transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
+}
+
+.social a:hover {
+  opacity: 0.8;
+}
+
+.social li {
+  display: inline;
+margin: 0px;
+  color: #444;
+}
+
+.social li img {
+  width: 50px;
+    display: inline-block;
+    margin-bottom: 40px;
+}
+
+.social {
+  margin-top; 10px;
+  text-align: center;
 
 
 
