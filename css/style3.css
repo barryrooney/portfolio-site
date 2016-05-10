@@ -26,7 +26,7 @@ min-width: 200px;
 
 #intro {
     background-color: #00ffbb;
-    height: 500px;
+    height: 450px;
     padding-top: 3em;
     padding-bottom: 3em;
 }
@@ -37,7 +37,7 @@ min-width: 200px;
 }
 
 #about {background-color: #00ffbb;
-height: 440px;
+height: 445px;
     padding-top: 3em;
     
     margin-top: 1.5em;
@@ -55,8 +55,16 @@ height: 440px;
 
 .anchor5{margin: 2em;
 }
-   
 
+.anchor6{padding-top: 1em;
+}
+
+.anchor7{padding-top: 2em;
+}
+   
+   
+.more, .more0, more1 
+{padding-top: 2em;}
 
 
 
@@ -68,7 +76,7 @@ p{
     line-height: 2em;
     max-width: 500px;
     margin: auto;
-    margin-bottom: 2em;
+    margin-bottom: 4em;
     min-width: 60px;
   letter-spacing: 1.5px;
     font-size: 1em;
@@ -76,6 +84,19 @@ p{
     color: white;
     font-weight:600;
     }
+
+p1{
+    font-family: 'Raleway', sans-serif;
+   margin: auto;
+    margin-bottom: 0em;
+    min-width: 60px;
+  letter-spacing: 1.5px;
+    font-size: 1em;
+    text-align: center;
+    color: #ff0066;
+    font-weight:600;
+    }
+
 
 
 #nav{
@@ -103,7 +124,7 @@ letter-spacing: 1.5px;}
 font-family: 'Raleway', sans-serif;
     color: #ff0066;
     font-weight: 4400;
-    font-size: 1.6em;
+    font-size: 1.4em;
     letter-spacing: 1.9px;
     text-align: center;
     line-height: 1.em;

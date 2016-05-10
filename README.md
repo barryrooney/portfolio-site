@@ -50,6 +50,6 @@ Fixing Responsive queries
 Finished Draft 2
 =================
 
-+ [Version 6](https://barryrooney.github.io/portfolio-site/index7.html)
++ [Version 7](https://barryrooney.github.io/portfolio-site/index7.html)
 
-Fixing Social Icons
+Fixing Social Icons & General Tidyup
